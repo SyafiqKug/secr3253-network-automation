@@ -7,7 +7,7 @@ Network Automation System using Docker and Ansible
 1. MUHAMMAD SYAFIQ BIN ABD RAZAK - SX240659ECRHS04
 2. MUHAMMAD SYAZWAN BIN KAMARUZAMAN - SX240918ECRHS04
 3. MUHAMMAD FAIZAL BIN MOHAMED SAID - SX240259ECRHS01
-4. MOHD RAZIF BIN YUSOF - SX240290ECCRHSO4
+4. MOHD RAZIF BIN MOHD YUSOF - SX240290ECCRHSO4
 
 ## Project Description
 This project is a network automation solution developed using Docker and Ansible. It can configure network device settings and collect Linux system information automatically.
