@@ -10,7 +10,7 @@ Network Automation System using Docker and Ansible
 4. MOHD RAZIF BIN MOHD YUSOF - SX240290ECCRHSO4
 
 ## Project Description
-This project is a network automation solution developed using Docker and Ansible. It can configure network device settings and collect Linux system information automatically.
+This project is a network automation solution developed using Ansible. It can configure network device settings and collect Linux system information automatically.
 
 ## Features
 - Configure IP address
@@ -29,16 +29,9 @@ This project is a network automation solution developed using Docker and Ansible
   - Top 5 running processes by CPU usage
 
 ## Technologies Used
-- Docker
 - Ansible
 - GitHub
 - Linux Shell Script
-
-## How to Run
-1. Clone the repository
-2. Run Docker container
-3. Run Ansible playbook
-4. Run system information script
 
 ## Collaboration
 All group members contributed through GitHub commits.
