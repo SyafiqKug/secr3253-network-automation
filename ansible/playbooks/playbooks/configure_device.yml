@@ -1,0 +1,18 @@
+---
+- name: Configure Cisco IOS XE Router
+  hosts: routers
+  gather_facts: no
+
+  tasks:
+    - name: Configure hostname
+      ios_config:
+        lines:
+          - hostname SSRF
+
+    - name: Configure Loopback1
+      ios_config:
+        parents: interface Loopback1
+        lines:
+          - ip address 10.10.10.1 255.255.255.0
+          - description Configured by Ansible
+          - no shutdown
